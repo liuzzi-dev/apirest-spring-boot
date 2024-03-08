@@ -1,0 +1,6 @@
+com\uxzzi\apirest\ApirestApplication.class
+com\uxzzi\apirest\Person\PersonRepository.class
+com\uxzzi\apirest\Person\Person.class
+com\uxzzi\apirest\Person\PersonDTO.class
+com\uxzzi\apirest\Person\PersonController.class
+com\uxzzi\apirest\Person\PersonService.class
